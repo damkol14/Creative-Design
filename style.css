@@ -260,11 +260,12 @@ a {
 .sitemapIcon {
   color: rgb(76, 250, 227);
   font-size: 6rem;
-  display: block;
   position: relative;
   z-index: 10000;
-  top: 25rem;
+  top: 26rem;
   left: calc((100vw - 75px) / 2);
+  overflow: hidden;
+  line-height: 9rem !important;
 }
 
 @media screen and (min-width: 550px) {
