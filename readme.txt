@@ -1,12 +1,14 @@
+link do projektu:
+https://damkol14.github.io/Creative-Design/
 
-Jest to strona internetowa do jej zbudowania u¿y³em g³ównie CSS i HTML
-oraz odrobinê JavaScriptu.
+Jest to strona internetowa do jej zbudowania uÅ¼yÅ‚em gÅ‚Ã³wnie CSS i HTML
+oraz odrobinÄ™ JavaScriptu.
 
-Projekt strony wziêty z kursu na udemi. 
-Napisa³em go samodzielnie, nie zagl¹da³em do kodu Ÿród³owego.
+Projekt strony wziÄ™ty z kursu na udemi. 
+NapisaÅ‚em go samodzielnie, nie zaglÄ…daÅ‚em do kodu ÅºrÃ³dÅ‚owego.
 
 
 
-Kod Ÿród³owy w folderze "Final Files"
+Kod ÅºrÃ³dÅ‚owy w folderze "Final Files"
 Link do kursu
 https://www.udemy.com/course/10-mega-responsive-websites-with-html-css-and-javascript/
